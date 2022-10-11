@@ -66,6 +66,4 @@ public class FirstProgram {
 
         System.out.println("In " + saveNumberOfSeconds + " seconds: " + hour + " h " + min + " min " + sec + " sec");
     }
-
-
 }
